@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,o as t,a as c}from"./index-D4FlFaz6.js";const s={},n={class:"container my-5"},r=c("h1",null,"商品列表",-1),_=[r];function a(i,d){return t(),o("div",n,_)}const m=e(s,[["render",a]]);export{m as default};
